@@ -1,5 +1,5 @@
 ## Overview
-A Kubernetes cluster is compromised of many different components ranging from key-value storage within etcd, the kube-apiserver, the kubelet, and more. Each of these components are highly configurable have important security responsibilities. 
+A Kubernetes cluster is compriced of many different components ranging from key-value storage within etcd, the kube-apiserver, the kubelet, and more. Each of these components are highly configurable have important security responsibilities. 
 
 ## Description
 
